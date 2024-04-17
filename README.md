@@ -1,8 +1,14 @@
-# React + Vite
+# Color Generator app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## This app demostrates how color can be genrated using different parameters like red, green, blue , opacity values.
 
-Currently, two official plugins are available:
+### This app tries to demostrates the following:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* How to create components and split the app into multiple components.
+* How to pass props from one component to another.
+* How to make use of useRef hook.
+* How to make use of useCallback hook.
+* How to make use of useState hook.
+* How to make use of conditional rendering in react.
+
+
