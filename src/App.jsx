@@ -26,7 +26,7 @@ function App() {
   return (
     <div className={`w-full h-screen flex justify-center p-4`} style={{backgroundColor:generateColor()}}>
       {/* <h1 className=' text-3xl text-orange-300'>Hello</h1> */}
-      <div className=' w-[60%] sm:w-[40%] h-min p-4  rounded-lg shadow-xl bg-slate-100'>
+      <div className=' w-[90%] sm:w-[70%] md:w-[50%] h-min p-4  rounded-lg shadow-xl bg-slate-100'>
         <h2 className=' text-2xl text-purple-800 text-center font-bold'> Color Generator </h2>
 
         <div className=' flex w-full mb-6 mt-3'>
